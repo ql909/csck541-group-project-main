@@ -1,0 +1,18 @@
+$ tree
+.
+├── csck541-group-project-main
+    ├── LICENCE
+    ├── README.md
+    ├── client.py
+    ├── client_test.py
+    ├── key.key
+    ├── requirements.txt
+    ├── server.py
+    ├── server_test.py
+    ├── utils.py
+    ├── utils_test.py
+    ├── unit_test_documentation.md
+    └── __pycache__
+
+
+        
